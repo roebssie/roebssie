@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-labelledby="title desc">
+  <title id="title">Roebin Uys · roebssie</title>
+  <desc id="desc">Final-year Bachelor of Computing student at Belgium Campus. Hardware, software and databases.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111c2b"/><stop offset="1" stop-color="#0d1220"/></linearGradient>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .star { transform-origin: 531px 56px; animation: breathe 6s ease-in-out infinite; }
+      @keyframes breathe { 0%,100% { transform: scale(1); opacity:.7; } 50% { transform: scale(1.15); opacity:1; } }
+      @media (prefers-reduced-motion:reduce) { .star { animation:none; } }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="599" height="399" rx="24" fill="url(#bg)" stroke="#314155"/>
+  <text x="36" y="57" font-size="15" class="mono" letter-spacing="1.7" fill="#b2f5d7">ROEBSSIE / HELLO, WORLD</text>
+  <path class="star" d="M531 39L536 51L548 56L536 61L531 73L526 61L514 56L526 51Z" fill="#bcafff"/>
+  <text x="32" y="150" font-size="72" font-weight="700" fill="#f4f7fc" letter-spacing="-2.5">Roebin Uys<tspan fill="#b2f5d7">.</tspan></text>
+  <text x="36" y="204" font-size="31" font-weight="500" fill="#bac8dc">Curiosity into code.</text>
+  <text x="36" y="264" font-size="23" fill="#9baec9">Final-year Bachelor of Computing</text>
+  <text x="36" y="299" font-size="23" fill="#9baec9">Belgium Campus</text>
+  <rect x="36" y="332" width="417" height="39" rx="19.5" fill="#b2f5d7" fill-opacity=".09" stroke="#b2f5d7" stroke-opacity=".24"/>
+  <circle cx="57" cy="351.5" r="4" fill="#b2f5d7"/>
+  <text x="75" y="357" font-size="17" class="mono" fill="#d4f7e8">HARDWARE · SOFTWARE · DATABASES</text>
+</svg>
