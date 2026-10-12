@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="#user-content-about">About</a> &nbsp;·&nbsp;
+  <a href="#user-content-skills">Skills</a> &nbsp;·&nbsp;
   <a href="#user-content-personal-projects">Personal projects</a> &nbsp;·&nbsp;
   <a href="#user-content-bc-collaborations">BC collaborations</a> &nbsp;·&nbsp;
   <a href="https://github.com/roebssie?tab=repositories">Explore repositories ↗</a>
@@ -23,6 +24,20 @@ I enjoy making things with **Arduino** and **Raspberry Pi**, exploring software 
 - **Hardware that does something useful** — Arduino, Raspberry Pi, and embedded systems.
 - **Software that connects the pieces** — applications, practical tools, and automation.
 - **Data with a purpose** — databases and the systems built around them.
+
+## Skills
+
+Tools and techniques I'm putting into practice through [RepLab](https://github.com/roebssie/RepLab), my personal iOS gym tracker.
+
+| Area | Technologies & practical experience |
+| :--- | :--- |
+| iOS development | **Swift · SwiftUI · UIKit** — native interfaces, animation, haptics, accessibility and persistent light/dark appearance |
+| Data & app state | **SwiftData · Foundation · Observation · AppStorage / UserDefaults** — model relationships, local persistence, saved workout drafts and preferences |
+| Visualisation | **Swift Charts** — workout volume, records and progress trends |
+| Apple integrations | **HealthKit · Uniform Type Identifiers** — optional workout export and JSON document export; HealthKit awaits physical-iPhone verification |
+| Testing & tooling | **XCTest · Xcode · iOS Simulator · xcodebuild** — 10 automated tests, simulator builds and interaction checks |
+| Project automation | **Python · AppKit** — reproducible Xcode project generation and original app-icon tooling |
+| Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — source releases, architecture diagrams, setup guides and validation notes |
 
 ## Personal projects
 
