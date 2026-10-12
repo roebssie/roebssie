@@ -30,6 +30,17 @@ My own builds and experiments, collected in one place.
 
 <table>
   <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/roebssie/RepLab">Featured / RepLab ↗</a></h3>
+      <p>A native iOS gym tracker for routines, sets, reps and weights, with progress charts, local storage and light/dark mode.</p>
+      <p><code>Swift</code> <code>SwiftUI</code> <code>SwiftData</code> <code>Swift Charts</code></p>
+      <p><a href="https://github.com/roebssie/RepLab#preview">See the app ↗</a> · <a href="https://github.com/roebssie/RepLab/tree/main/docs">Read the documentation ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/roebssie/Box_Flasher">01 / Box Flasher ↗</a></h3>
       <p>Embedded-device tooling for the Amlogic S905W, including a system monitoring service, cross-compilation, and device setup scripts.</p>
