@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp;·&nbsp;
-  <a href="#personal-projects">Personal projects</a> &nbsp;·&nbsp;
-  <a href="#bc-collaborations">BC collaborations</a> &nbsp;·&nbsp;
+  <a href="#user-content-about">About</a> &nbsp;·&nbsp;
+  <a href="#user-content-personal-projects">Personal projects</a> &nbsp;·&nbsp;
+  <a href="#user-content-bc-collaborations">BC collaborations</a> &nbsp;·&nbsp;
   <a href="https://github.com/roebssie?tab=repositories">Explore repositories ↗</a>
 </p>
 
