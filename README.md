@@ -27,20 +27,20 @@ I enjoy making things with **Arduino** and **Raspberry Pi**, exploring software 
 
 ## Skills · 8 areas
 
-Tools and techniques I'm putting into practice through [RepLab](https://github.com/roebssie/RepLab), my personal iOS gym tracker, and [seamzzPop](https://github.com/roebssie/seamzzPop), my cross-platform sewing-project app concept.
+Tools and techniques I'm putting into practice through [RepLab](https://github.com/roebssie/RepLab), my personal iOS gym tracker; [myPhish](https://github.com/roebssie/myPhish), my offline-first aquarium companion; and [seamzzPop](https://github.com/roebssie/seamzzPop), my cross-platform sewing-project app concept.
 
 | Area | Technologies & practical experience |
 | :--- | :--- |
 | iOS development | **Swift · SwiftUI · UIKit** — native interfaces, animation, haptics, accessibility and persistent light/dark appearance |
-| Cross-platform mobile | **TypeScript · React Native · Expo** — shared iOS/Android foundations, image-library integration and mobile project flows |
-| Data & app state | **SwiftData · Foundation · Observation · AppStorage / UserDefaults** — model relationships, local persistence, saved workout drafts and preferences |
+| Cross-platform mobile | **TypeScript · React Native · Expo** — shared iOS/Android foundations, reusable components, tab navigation, searchable galleries, modal forms and safe-area layouts |
+| Data & app state | **SwiftData · AsyncStorage · Foundation · Observation · AppStorage / UserDefaults** — offline-first records, CRUD flows, model relationships, local persistence, saved drafts and preferences |
 | Visualisation | **Swift Charts** — workout volume, records and progress trends |
 | Apple integrations | **HealthKit · Uniform Type Identifiers** — optional workout export and JSON document export; HealthKit awaits physical-iPhone verification |
-| Testing & tooling | **XCTest · Xcode · iOS Simulator · xcodebuild** — 10 automated tests, simulator builds and interaction checks |
+| Testing & tooling | **XCTest · Xcode · iOS Simulator · xcodebuild · Expo Doctor** — automated tests, native simulator builds, dependency validation and interaction checks |
 | Project automation | **Python · AppKit** — reproducible Xcode project generation and original app-icon tooling |
-| Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — source releases, architecture diagrams, setup guides and validation notes |
+| Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — public source releases, architecture diagrams, setup guides, screenshots and validation notes |
 
-## Personal projects · 4 projects
+## Personal projects · 5 projects
 
 My own builds and experiments, collected in one place.
 
@@ -58,29 +58,33 @@ My own builds and experiments, collected in one place.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/roebssie/seamzzPop">02 / seamzzPop ↗</a></h3>
-      <p>A cross-platform mobile foundation for garment inspiration, rights-aware pattern discovery and future parametric sewing workflows.</p>
-      <p><code>TypeScript</code> <code>React Native</code> <code>Expo</code></p>
+      <h3><a href="https://github.com/roebssie/myPhish">02 / myPhish ↗</a></h3>
+      <p>An offline-first aquarium companion for tracking freshwater tanks, individual fish and groups, care history, sizes, notes and aquarium transfers.</p>
+      <p><code>TypeScript</code> <code>React Native</code> <code>Expo</code> <code>AsyncStorage</code></p>
+      <p><b>Practised:</b> mobile information architecture, reusable UI components, local CRUD data, search and form flows, native iOS validation, app branding and screenshot-led documentation.</p>
+      <p><a href="https://github.com/roebssie/myPhish#screenshots">See the app ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/roebssie/Box_Flasher">03 / Box Flasher ↗</a></h3>
-      <p>Embedded-device tooling for the Amlogic S905W, including a system monitoring service, cross-compilation, and device setup scripts.</p>
-      <p><code>C++</code> <code>Shell</code> <code>CMake</code> <code>Linux</code></p>
+      <h3><a href="https://github.com/roebssie/seamzzPop">03 / seamzzPop ↗</a></h3>
+      <p>A cross-platform mobile foundation for garment inspiration, rights-aware pattern discovery and future parametric sewing workflows.</p>
+      <p><code>TypeScript</code> <code>React Native</code> <code>Expo</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/roebssie/calculator">04 / Calculator ↗</a></h3>
+      <h3><a href="https://github.com/roebssie/Box_Flasher">04 / Box Flasher ↗</a></h3>
+      <p>Embedded-device tooling for the Amlogic S905W, including a system monitoring service, cross-compilation, and device setup scripts.</p>
+      <p><code>C++</code> <code>Shell</code> <code>CMake</code> <code>Linux</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/roebssie/calculator">05 / Calculator ↗</a></h3>
       <p>A browser-based calculator project: a small space to explore application logic and web interfaces.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Current focus</h3>
-      <p>Building mobile products that combine thoughtful interfaces, practical data flows and transparent AI-assisted features.</p>
-      <p><code>iOS</code> <code>Android</code> <code>Responsible AI</code></p>
-    </td>
   </tr>
 </table>
+
+**Current focus:** Building mobile products that combine thoughtful interfaces, practical offline data flows and transparent AI-assisted features across iOS and Android.
 
 ## BC collaborations
 
