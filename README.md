@@ -25,7 +25,7 @@ I enjoy making things with **Arduino** and **Raspberry Pi**, exploring software 
 - **Software that connects the pieces** — applications, practical tools, and automation.
 - **Data with a purpose** — databases and the systems built around them.
 
-## Skills · 8 areas
+## Skills · 9 areas
 
 Tools and techniques I'm putting into practice through [RepLab](https://github.com/roebssie/RepLab), my personal iOS gym tracker; [myPhish](https://github.com/roebssie/myPhish), my offline-first aquarium companion; and [seamzzPop](https://github.com/roebssie/seamzzPop), my cross-platform sewing-project app concept.
 
@@ -33,6 +33,7 @@ Tools and techniques I'm putting into practice through [RepLab](https://github.c
 | :--- | :--- |
 | iOS development | **Swift · SwiftUI · UIKit** — native interfaces, animation, haptics, accessibility and persistent light/dark appearance |
 | Cross-platform mobile | **TypeScript · React Native · Expo** — shared iOS/Android foundations, reusable components, tab navigation, searchable galleries, modal forms and safe-area layouts |
+| Web media tools | **HTML · CSS · JavaScript · MediaRecorder · Canvas 2D · Web Audio API** — responsive browser interfaces, microphone and webcam streams, audio mixing and video overlay composition |
 | Data & app state | **SwiftData · AsyncStorage · Foundation · Observation · AppStorage / UserDefaults** — offline-first records, CRUD flows, model relationships, local persistence, saved drafts and preferences |
 | Visualisation | **Swift Charts** — workout volume, records and progress trends |
 | Apple integrations | **HealthKit · Uniform Type Identifiers** — optional workout export and JSON document export; HealthKit awaits physical-iPhone verification |
@@ -40,7 +41,7 @@ Tools and techniques I'm putting into practice through [RepLab](https://github.c
 | Project automation | **Python · AppKit** — reproducible Xcode project generation and original app-icon tooling |
 | Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — public source releases, architecture diagrams, setup guides, screenshots and validation notes |
 
-## Personal projects · 5 projects
+## Personal projects · 6 projects
 
 My own builds and experiments, collected in one place.
 
@@ -80,6 +81,20 @@ My own builds and experiments, collected in one place.
       <h3><a href="https://github.com/roebssie/calculator">05 / Calculator ↗</a></h3>
       <p>A browser-based calculator project: a small space to explore application logic and web interfaces.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
+
+### BC student build · personal project
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/roebssie/bc-assignment-recording-app">BC Assignment Recording App ↗</a></h3>
+      <p>An independent browser recorder for BC assignment demos. Add narration and an optional webcam bubble to a video, then download a polished walkthrough other students can use.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>MediaRecorder</code> <code>Canvas 2D</code> <code>Web Audio API</code></p>
+      <p><a href="https://roebssie.github.io/bc-assignment-recording-app/">Try the app ↗</a> · <a href="https://github.com/roebssie/bc-assignment-recording-app">Source and setup ↗</a></p>
+      <p><b>Classification:</b> A personal student build with a Belgium Campus connection; it is not an official BC product.</p>
     </td>
   </tr>
 </table>
@@ -129,3 +144,4 @@ A daily snapshot of public activity in my personal repositories. The contributio
   <b>Curious about hardware. Serious about learning. Always building.</b><br />
   <sub>Roebin Uys &nbsp; / &nbsp; @roebssie &nbsp; / &nbsp; Belgium Campus</sub>
 </p>
+
