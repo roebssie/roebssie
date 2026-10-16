@@ -117,11 +117,11 @@ Coursework and group builds from **Belgium Campus**. These projects were develop
 
   <br />
 
-  | Team project | Course |
-  | :--- | :--- |
-  | [Group programming project ↗](https://github.com/Bianca333-b/PRG282_Group_Project) | PRG282 |
-  | [Programming project ↗](https://github.com/TobesOfCode/Project-LPR381) | LPR381 |
-  | [BCOM Group 2 project ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2) | PRJ381 |
+  | Team project | Course | Contribution highlights |
+  | :--- | :--- | :--- |
+  | [Group programming project ↗](https://github.com/Bianca333-b/PRG282_Group_Project) | PRG282 | Added setup guidance for the Superhero Database System and contributed minor changes and tests. |
+  | [Programming project ↗](https://github.com/TobesOfCode/Project-LPR381) | LPR381 | Team coursework project. |
+  | [BCOM Group 2 project ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2) | PRJ381 | Built Express authentication endpoints for registration and login, with basic validation and temporary credential storage. |
 
 </details>
 
