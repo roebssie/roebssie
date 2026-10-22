@@ -65,8 +65,12 @@ My own builds and experiments, collected in one place.
       <p><b>Practised:</b> mobile information architecture, reusable UI components, local CRUD data, search and form flows, native iOS validation, app branding and screenshot-led documentation.</p>
       <p><a href="https://github.com/roebssie/myPhish#screenshots">See the app ↗</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/roebssie/seamzzPop">03 / seamzzPop ↗</a></h3>
+
+    
+          ## Explore my digital CV
+          
+          I built a live, interactive version of my CV — [visit my personal webpage](https://roebssie.github.io).
+          <h3><a href="https://github.com/roebssie/seamzzPop">03 / seamzzPop ↗</a></h3>
       <p>A cross-platform mobile foundation for garment inspiration, rights-aware pattern discovery and future parametric sewing workflows.</p>
       <p><code>TypeScript</code> <code>React Native</code> <code>Expo</code></p>
     </td>
