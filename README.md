@@ -69,7 +69,8 @@ My own builds and experiments, collected in one place.
     
           ## Explore my digital CV
           
-          I built a live, interactive version of my CV — [visit my personal webpage](https://roebssie.github.io).
+
+          <p><strong>Explore my digital CV:</strong> <a href="https://roebssie.github.io">Visit my personal webpage </a></p>
           <h3><a href="https://github.com/roebssie/seamzzPop">03 / seamzzPop ↗</a></h3>
       <p>A cross-platform mobile foundation for garment inspiration, rights-aware pattern discovery and future parametric sewing workflows.</p>
       <p><code>TypeScript</code> <code>React Native</code> <code>Expo</code></p>
