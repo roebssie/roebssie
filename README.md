@@ -10,7 +10,8 @@
   <a href="#user-content-skills">Skills</a> &nbsp;·&nbsp;
   <a href="#user-content-personal-projects">Personal projects</a> &nbsp;·&nbsp;
   <a href="#user-content-bc-collaborations">BC collaborations</a> &nbsp;·&nbsp;
-  <a href="https://github.com/roebssie?tab=repositories">Explore repositories ↗</a>
+  <a href="https://github.com/roebssie?tab=repositories">Explore repositories ↗</a> &nbsp;·&nbsp;
+  <a href="https://roebssie.github.io">Explore my digital CV ↗</a>
 </p>
 
 ## About
