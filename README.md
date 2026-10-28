@@ -125,6 +125,7 @@ Coursework and group builds from **Belgium Campus**. These projects were develop
 | Web applications | [Ticket booking webpage ↗](https://github.com/AdolfJonker/WPR381_Ticket_Booking_webpage) | WPR381 |
 | Web applications | [Community portal ↗](https://github.com/volkrum123/WPR381-Community-portal) | WPR381 |
 | Java applications | [Cleaning inventory system ↗](https://github.com/mqadi11/CleaningInventorySystem) | PRG381 |
+| Java applications | [BCOM Group 2 project ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2) | PRJ381 |
 | Databases | [MongoDB replica set ↗](https://github.com/TropicSatern36/MongoDB-Replica-set-Uni-2025) | University project |
 
 <details>
@@ -136,7 +137,6 @@ Coursework and group builds from **Belgium Campus**. These projects were develop
   | :--- | :--- | :--- |
   | [Group programming project ↗](https://github.com/Bianca333-b/PRG282_Group_Project) | PRG282 | Added setup guidance for the Superhero Database System and contributed minor changes and tests. |
   | [Programming project ↗](https://github.com/TobesOfCode/Project-LPR381) | LPR381 | Team coursework project. |
-  | [BCOM Group 2 project ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2) | PRJ381 | Built Express authentication endpoints for registration and login, with basic validation and temporary credential storage. |
 
 </details>
 
