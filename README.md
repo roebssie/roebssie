@@ -26,7 +26,7 @@ I enjoy making things with **Arduino** and **Raspberry Pi**, exploring software 
 - **Software that connects the pieces** — applications, practical tools, and automation.
 - **Data with a purpose** — databases and the systems built around them.
 
-## Skills · 10 areas
+## Skills · 11 areas
 
 Tools and techniques I'm putting into practice through [RepLab](https://github.com/roebssie/RepLab), my personal iOS gym tracker; [myPhish](https://github.com/roebssie/myPhish), my offline-first aquarium companion; and [seamzzPop](https://github.com/roebssie/seamzzPop), my cross-platform sewing-project app concept.
 
@@ -42,6 +42,7 @@ Tools and techniques I'm putting into practice through [RepLab](https://github.c
 | Project automation | **Python · AppKit** — reproducible Xcode project generation and original app-icon tooling |
 | Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — public source releases, architecture diagrams, setup guides, screenshots and validation notes |
 | Android TV customisation | **Java · Android SDK · ADB over Wi‑Fi · Android services · Accessibility APIs · MediaSession · APK packaging/signing · shell diagnostics** — launcher UI, screensavers, remote input, AirPlay background handling and device validation |
+| Full-stack web systems | **Node.js · Express · MongoDB · Mongoose · React · Vite · JWT · Jest · Playwright** — layered APIs, role-aware workflows, authentication, civic issue management, browser journeys and local staging |
 
 ## Personal projects · 7 projects
 
@@ -126,6 +127,7 @@ Coursework and group builds from **Belgium Campus**. These projects were develop
 | Web applications | [Community portal ↗](https://github.com/volkrum123/WPR381-Community-portal) | WPR381 |
 | Java applications | [Cleaning inventory system ↗](https://github.com/mqadi11/CleaningInventorySystem) | PRG381 |
 | VR / sign-language learning | [PRJ381 · BCSignVR SignVR app · Mac working version ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2/tree/roebin-working-version-mac) | PRJ381 · with Carl |
+| Software engineering | [SEN381 · Civic Connect · sanitized portfolio copy ↗](https://github.com/roebssie/civic-connect-sen381) | SEN381 · with Carl · [original profile ↗](https://github.com/CarlEls30) |
 | Databases | [MongoDB replica set ↗](https://github.com/TropicSatern36/MongoDB-Replica-set-Uni-2025) | University project |
 
 <details>
