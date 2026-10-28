@@ -26,7 +26,7 @@ I enjoy making things with **Arduino** and **Raspberry Pi**, exploring software 
 - **Software that connects the pieces** — applications, practical tools, and automation.
 - **Data with a purpose** — databases and the systems built around them.
 
-## Skills · 9 areas
+## Skills · 10 areas
 
 Tools and techniques I'm putting into practice through [RepLab](https://github.com/roebssie/RepLab), my personal iOS gym tracker; [myPhish](https://github.com/roebssie/myPhish), my offline-first aquarium companion; and [seamzzPop](https://github.com/roebssie/seamzzPop), my cross-platform sewing-project app concept.
 
@@ -41,8 +41,9 @@ Tools and techniques I'm putting into practice through [RepLab](https://github.c
 | Testing & tooling | **XCTest · Xcode · iOS Simulator · xcodebuild · Expo Doctor** — automated tests, native simulator builds, dependency validation and interaction checks |
 | Project automation | **Python · AppKit** — reproducible Xcode project generation and original app-icon tooling |
 | Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — public source releases, architecture diagrams, setup guides, screenshots and validation notes |
+| Android TV customisation | **Java · Android SDK · ADB over Wi‑Fi · Android services · Accessibility APIs · MediaSession · APK packaging/signing · shell diagnostics** — launcher UI, screensavers, remote input, AirPlay background handling and device validation |
 
-## Personal projects · 6 projects
+## Personal projects · 7 projects
 
 My own builds and experiments, collected in one place.
 
@@ -87,6 +88,18 @@ My own builds and experiments, collected in one place.
       <h3><a href="https://github.com/roebssie/calculator">05 / Calculator ↗</a></h3>
       <p>A browser-based calculator project: a small space to explore application logic and web interfaces.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/roebssie/debloat-android-xiaomi-mi-tv-box">06 / Poef TV OS · Xiaomi Mi Box customisation ↗</a></h3>
+      <p>A minimal custom TV experience for a Xiaomi Mi Box S: a clean Apple TV-inspired launcher, custom screensaver, media banners, quiet AirPlay handling and Android debloating.</p>
+      <p><code>Java</code> <code>Android SDK</code> <code>ADB</code> <code>Accessibility APIs</code> <code>MediaSession</code></p>
+      <p><b>Practised:</b> Android TV launcher development, ADB over Wi‑Fi, accessibility-driven window handling, background services, remote navigation, media artwork, screensaver rendering, APK packaging and device testing.</p>
+      <p><a href="https://github.com/roebssie/debloat-android-xiaomi-mi-tv-box#readme">Read the project ↗</a></p>
     </td>
   </tr>
 </table>
