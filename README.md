@@ -126,7 +126,7 @@ Coursework and group builds from **Belgium Campus**. These projects were develop
 | Web applications | [Ticket booking webpage ↗](https://github.com/AdolfJonker/WPR381_Ticket_Booking_webpage) | WPR381 |
 | Web applications | [Community portal ↗](https://github.com/volkrum123/WPR381-Community-portal) | WPR381 |
 | Java applications | [Cleaning inventory system ↗](https://github.com/mqadi11/CleaningInventorySystem) | PRG381 |
-| VR / sign-language learning | [PRJ381 · BCSignVR SignVR app · Mac working version ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2/tree/roebin-working-version-mac) | PRJ381 · with Carl |
+| VR / sign-language learning | [PRJ381 · BCSignVR SignVR app · Mac working version ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2/tree/roebin-working-version-mac) | PRJ381 |
 | Software engineering | [SEN381 · Civic Connect · sanitized portfolio copy ↗](https://github.com/roebssie/civic-connect-sen381) | SEN381 · with Carl · [original profile ↗](https://github.com/CarlEls30) |
 | Databases | [MongoDB replica set ↗](https://github.com/TropicSatern36/MongoDB-Replica-set-Uni-2025) | University project |
 
