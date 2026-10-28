@@ -95,7 +95,7 @@ My own builds and experiments, collected in one place.
 <table>
   <tr>
     <td valign="top">
-      <h3><a href="https://github.com/roebssie/debloat-android-xiaomi-mi-tv-box">06 / Poef TV OS · Xiaomi Mi Box customisation ↗</a></h3>
+      <h3><a href="https://github.com/roebssie/debloat-android-xiaomi-mi-tv-box">06 / Debloat Mi Box S · Roebssie’s TV OS ↗</a></h3>
       <p>A minimal custom TV experience for a Xiaomi Mi Box S: a clean Apple TV-inspired launcher, custom screensaver, media banners, quiet AirPlay handling and Android debloating.</p>
       <p><code>Java</code> <code>Android SDK</code> <code>ADB</code> <code>Accessibility APIs</code> <code>MediaSession</code></p>
       <p><b>Practised:</b> Android TV launcher development, ADB over Wi‑Fi, accessibility-driven window handling, background services, remote navigation, media artwork, screensaver rendering, APK packaging and device testing.</p>
