@@ -126,7 +126,7 @@ Coursework and group builds from **Belgium Campus**. These projects were develop
 | Web applications | [Community portal ↗](https://github.com/volkrum123/WPR381-Community-portal) | WPR381 |
 | Java applications | [Cleaning inventory system ↗](https://github.com/mqadi11/CleaningInventorySystem) | PRG381 |
 | Java applications | [PRJ381 · Roebin working version ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2/tree/feature/roebin-auth-endpoints) | PRJ381 |
-| VR / sign-language learning | [SIN3811 · BCSignVR Standalone ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2/tree/roebin-working-version) | SIN3811 · with Carl |
+| VR / sign-language learning | [SIN3811 · BCSignVR Standalone · Mac ↗](https://github.com/Kollekiess/PRJ381-PTA--BCOM-Group-2/tree/roebin-working-version-mac) | SIN3811 · with Carl |
 | Databases | [MongoDB replica set ↗](https://github.com/TropicSatern36/MongoDB-Replica-set-Uni-2025) | University project |
 
 <details>
