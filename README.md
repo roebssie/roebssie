@@ -26,7 +26,7 @@ I enjoy making things with **Arduino** and **Raspberry Pi**, exploring software 
 - **Software that connects the pieces** — applications, practical tools, and automation.
 - **Data with a purpose** — databases and the systems built around them.
 
-## Skills · 11 areas
+## Skills · 12 areas
 
 Tools and techniques I'm putting into practice through [RepLab](https://github.com/roebssie/RepLab), my personal iOS gym tracker; [myPhish](https://github.com/roebssie/myPhish), my offline-first aquarium companion; and [seamzzPop](https://github.com/roebssie/seamzzPop), my cross-platform sewing-project app concept.
 
@@ -41,10 +41,11 @@ Tools and techniques I'm putting into practice through [RepLab](https://github.c
 | Testing & tooling | **XCTest · Xcode · iOS Simulator · xcodebuild · Expo Doctor** — automated tests, native simulator builds, dependency validation and interaction checks |
 | Project automation | **Python · AppKit** — reproducible Xcode project generation and original app-icon tooling |
 | Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — public source releases, architecture diagrams, setup guides, screenshots and validation notes |
+| Graphic & 3D design | **Graphic design · Blender · Fusion 360 · STL modeling and export · FDM 3D printing** — original 3D models and hands-on printer experience; Professional 3D Modeling and Design course, completed with honors |
 | Hardware, networking, audio & Android TV | **Java · Android SDK · ADB over Wi‑Fi · Android services · Accessibility APIs · MediaSession · APK packaging/signing · shell diagnostics** — launcher UI, screensavers, remote input, AirPlay background handling and device validation; router setup and configuration, Wi-Fi and network troubleshooting, sound systems and amplifiers, Dolby technology knowledge and hands-on Dolby equipment experience |
 | Full-stack web systems | **Node.js · Express · MongoDB · Mongoose · React · Vite · JWT · Jest · Playwright** — layered APIs, role-aware workflows, authentication, civic issue management, browser journeys and local staging |
 
-## Personal projects · 7 projects
+## Personal projects · 8 projects
 
 My own builds and experiments, collected in one place.
 
@@ -101,6 +102,18 @@ My own builds and experiments, collected in one place.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/roebssie/aquarium-canister-filter-fittings">07 / Aquarium Canister-Filter Fittings & Rim Mount ↗</a></h3>
+      <p>An original Blender and 3D-printing project: custom over-rim canister-filter inlet and low-profile T outlet, plus an adjustable glass-edge clamp and pipe-ring holder.</p>
+      <p><code>Blender</code> <code>STL</code> <code>FDM 3D printing</code> <code>Mechanical design</code></p>
+      <p><a href="https://github.com/roebssie/aquarium-canister-filter-fittings#readme">Download the STL bundle and read the fit notes ↗</a></p>
+      <p><b>Designed by me:</b> Developed the geometry and fit assumptions for my aquarium, then prepared editable Blender models and printable STL exports.</p>
+    </td>
+  </tr>
+</table>
+
 ### BC student build · personal project
 
 <table>
@@ -115,7 +128,7 @@ My own builds and experiments, collected in one place.
   </tr>
 </table>
 
-**Current focus:** Building mobile products that combine thoughtful interfaces, practical offline data flows and transparent AI-assisted features across iOS and Android.
+**Current focus:** Building practical software and hardware projects, from mobile products with offline data flows to original 3D models prepared for printing.
 
 ## BC collaborations
 
@@ -162,10 +175,3 @@ A daily snapshot of public activity in my personal repositories. The contributio
   <sub>Roebin Uys &nbsp; / &nbsp; @roebssie &nbsp; / &nbsp; Belgium Campus</sub>
 </p>
 
-
-
-
-## 3D Design Skills and Training
-
-- **Blender:** 3D modeling and design.
-- **Professional 3D Modeling and Design course:** completed with honors.
