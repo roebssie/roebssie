@@ -41,7 +41,7 @@ Tools and techniques I'm putting into practice through [RepLab](https://github.c
 | Testing & tooling | **XCTest · Xcode · iOS Simulator · xcodebuild · Expo Doctor** — automated tests, native simulator builds, dependency validation and interaction checks |
 | Project automation | **Python · AppKit** — reproducible Xcode project generation and original app-icon tooling |
 | Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — public source releases, architecture diagrams, setup guides, screenshots and validation notes |
-| Graphic & 3D design | **Graphic design · Blender · Fusion 360 · STL modeling and export · FDM 3D printing** — original 3D models and hands-on printer experience; Professional 3D Modeling and Design course, completed with honors |
+| Graphic & 3D design | **Graphic design · Blender · Fusion 360 · STL modeling and export · FDM 3D printing** — original 3D models and hands-on printer experience; Professional 3D Modeling and Design course, completed with honoring |
 | Hardware, networking, audio & Android TV | **Java · Android SDK · ADB over Wi‑Fi · Android services · Accessibility APIs · MediaSession · APK packaging/signing · shell diagnostics** — launcher UI, screensavers, remote input, AirPlay background handling and device validation; router setup and configuration, Wi-Fi and network troubleshooting, sound systems and amplifiers, Dolby technology knowledge and hands-on Dolby equipment experience |
 | Full-stack web systems | **Node.js · Express · MongoDB · Mongoose · React · Vite · JWT · Jest · Playwright** — layered APIs, role-aware workflows, authentication, civic issue management, browser journeys and local staging |
 
