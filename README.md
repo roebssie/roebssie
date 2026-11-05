@@ -162,3 +162,10 @@ A daily snapshot of public activity in my personal repositories. The contributio
   <sub>Roebin Uys &nbsp; / &nbsp; @roebssie &nbsp; / &nbsp; Belgium Campus</sub>
 </p>
 
+
+
+
+## 3D Design Skills and Training
+
+- **Blender:** 3D modeling and design.
+- **Professional 3D Modeling and Design course:** completed with honors.
