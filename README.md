@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
-    <img src="./assets/hero.svg" width="100%" alt="Roebin Uys, also known as roebssie. Final-year Bachelor of Computing student at Belgium Campus. Hardware, software and databases." />
+    <img src="./assets/hero.svg" width="100%" alt="Roebin Uys, also known as roebssie. Final-year Computer Science student at Belgium Campus, focusing on Software Engineering, hardware and software." />
   </picture>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-Hey, I'm **Roebin Uys** — **@roebssie** here. I'm a final-year **Bachelor of Computing** student at **Belgium Campus**, with an interest in the place where hardware meets software.
+Hey, I'm **Roebin Uys** — **@roebssie** here. I'm a final-year student at **Belgium Campus**, working toward a **Bachelor’s Degree in Computer Science** *(in progress)* and focusing on **Software Engineering**. I'm interested in the place where hardware meets software.
 
 I enjoy making things with **Arduino** and **Raspberry Pi**, exploring software projects, and working with **databases**. This is my space for sharing experiments, learning in public, and showing the work I've built independently and with others.
 
@@ -26,7 +26,7 @@ I enjoy making things with **Arduino** and **Raspberry Pi**, exploring software 
 - **Software that connects the pieces** — applications, practical tools, and automation.
 - **Data with a purpose** — databases and the systems built around them.
 
-## Skills · 15 areas
+## Skills · 16 areas
 
 Tools and techniques I'm putting into practice through [RepLab](https://github.com/roebssie/RepLab), my personal iOS gym tracker; [myPhish](https://github.com/roebssie/myPhish), my offline-first aquarium companion; and [seamzzPop](https://github.com/roebssie/seamzzPop), my cross-platform sewing-project app concept.
 
@@ -41,11 +41,12 @@ Tools and techniques I'm putting into practice through [RepLab](https://github.c
 | Testing & tooling | **XCTest · Xcode · iOS Simulator · xcodebuild · Expo Doctor** — automated tests, native simulator builds, dependency validation and interaction checks |
 | Project automation | **Python · AppKit** — reproducible Xcode project generation and original app-icon tooling |
 | Version control & documentation | **Git · GitHub · GitHub Desktop · Markdown · Mermaid** — public source releases, architecture diagrams, setup guides, screenshots and validation notes |
-| Graphic & 3D design | **Graphic design · Blender · Fusion 360 · STL modeling and export · FDM 3D printing** — original 3D models and hands-on printer experience; Professional 3D Modeling and Design course, completed with honors |
+| Graphic & 3D design | **Graphic design · Blender · Fusion 360 · STL modeling and export · FDM 3D printing** — original 3D models and hands-on printer experience; Professional 3D Modeling and Design course, completed with Honors |
 | Hardware, networking, audio & Android TV | **Java · Android SDK · ADB over Wi‑Fi · Android services · Accessibility APIs · MediaSession · APK packaging/signing · shell diagnostics** — launcher UI, screensavers, remote input, AirPlay background handling and device validation; router setup and configuration, Wi-Fi and network troubleshooting, sound systems and amplifiers, Dolby technology knowledge and hands-on Dolby equipment experience |
 | Programming languages & databases | **C# · Delphi · Python · SQL · Swift · TypeScript · JavaScript · C++ · Java · HTML · CSS · Shell** — coursework, personal projects and database work |
 | Machine learning | **Machine learning concepts** — ongoing learning and exploration |
 | Automotive diagnostics & coding | **VCDS · VAG software** — experience with vehicle coding and diagnostics |
+| Software engineering & delivery | **Software engineering · Requirements analysis · Structured problem solving · Modular design · Iterative delivery** — planning, building, documenting and improving practical coursework and personal projects |
 | Full-stack web systems | **Node.js · Express · MongoDB · Mongoose · React · Vite · JWT · Jest · Playwright** — layered APIs, role-aware workflows, authentication, civic issue management, browser journeys and local staging |
 
 ## Personal projects · 8 projects
